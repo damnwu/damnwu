@@ -1,17 +1,85 @@
-##Русский# 
-#Обо мне
-Увлекаюсь программированием и электроникой — в работе использую ESP32 для прототипирования IoT‑решений. Интересуюсь системным ПО и низкоуровневыми задачами, осваиваю Linux.
+<!-- ЗАГОЛОВОК С ПРИВЕТСТВИЕМ -->
+<h1 align="center">👋 Привет, я damnwu / Hi, I'm damnwu</h1>
 
-В приоритете — физико‑математический профиль и технические проекты: люблю разбирать, как всё устроено, и писать чистый, понятный код. В свободное время экспериментирую с железом и автоматизацией.
+<!-- АНИМИРОВАННАЯ ПОДПИСЬ -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Разбираюсь+в+железе+и+софте;ESP32+%7C+Linux+%7C+IoT;Пишу+чистый+код" />
+</p>
 
-Открыт к коллаборациям и обмену опытом. Давайте делать крутые проекты вместе!
+<!-- БЕЙДЖИ СОЦСЕТЕЙ (замените ссылки на свои) -->
+<p align="center">
+  <a href="https://t.me/your_telegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/damnwu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
+---
 
-##English
-# About Me
+## 🇷🇺 Русский
 
-I’m passionate about programming and electronics. I use ESP32 for IoT prototyping and enjoy diving into system-level software and low-level tasks. Currently exploring Linux.
+### 👨‍💻 Обо мне
 
-My focus is on the physics and math track and technical projects: I love understanding how things work under the hood and writing clean, readable code. In my free time, I experiment with hardware and automation.
+Увлекаюсь **программированием** и **электроникой** — в работе использую **ESP32** для прототипирования IoT‑решений.  
+Интересуюсь системным ПО и низкоуровневыми задачами, осваиваю **Linux**.
 
-Open to collaborations and sharing knowledge. Let’s build something awesome together!
+> В приоритете — физико‑математический профиль и технические проекты: люблю разбирать, как всё устроено, и писать чистый, понятный код.
+
+В свободное время экспериментирую с железом и автоматизацией.  
+Открыт к коллаборациям и обмену опытом. **Давайте делать крутые проекты вместе!** 🚀
+
+---
+
+## 🇬🇧 English
+
+### 👨‍💻 About Me
+
+I’m passionate about **programming** and **electronics**. I use **ESP32** for IoT prototyping and enjoy diving into system-level software and low-level tasks. Currently exploring **Linux**.
+
+> My focus is on the physics and math track and technical projects: I love understanding how things work under the hood and writing clean, readable code.
+
+In my free time, I experiment with hardware and automation.  
+Open to collaborations and sharing knowledge. **Let’s build something awesome together!** 🛠️
+
+---
+
+## 🛠️ Технологии / Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+</p>
+
+---
+
+## 📊 Статистика / GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=damnwu&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damnwu&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+## 🔥 Активность / Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=damnwu&theme=tokyonight" width="80%" />
+</p>
+
+---
+
+## ⚡️ Девиз / Motto
+
+> *“Лучше один раз собрать, чем сто раз прочитать.”*  
+> *“Better to build once than to read a hundred times.”*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=damnwu&color=blueviolet&style=flat-square" alt="Profile views"/>
+</p>
